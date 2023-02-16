@@ -6,7 +6,7 @@ import logo from "/images/cbl.webp"
 
 const PublicLayout = () => {
 
-    const [open, setOpen] = React.useState(false);
+    const [open, setOpen] = React.useState();
 
     return (
         <div className='w-full'>

@@ -1,0 +1,7 @@
+.bg-hero-img{
+    background-image: url("../../../public/CBL_Images/professional-basketball-player-holding-ball-his-arm.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    z-index: 1000;
+}
